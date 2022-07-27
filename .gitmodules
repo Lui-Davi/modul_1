@@ -8,3 +8,5 @@
 	path = cpeckMod
 	url = https://github.com/Lui-Davi/cpeckMod.git
 	branch = main
+[submodule "DbConnector"]
+	branch = stable
