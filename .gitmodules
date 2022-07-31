@@ -1,9 +1,3 @@
-[submodule "rack"]
-	path = rack
-	url = https://github.com/rack/rack
-[submodule "rol1"]
-	path = rol1
-	url = ../rolik1
 [submodule "cpeckMod"]
 	path = cpeckMod
 	url = https://github.com/Lui-Davi/cpeckMod.git
